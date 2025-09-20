@@ -64,7 +64,7 @@ const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-2 mb-6 animate-fade-in-up">
-              <img src="/src/assets/phoenix-logo-blue.png" alt="Sphoenix" className="w-8 h-8" />
+              <img src="src/assets/phoenix-logo-blue.png" alt="Sphoenix" className="w-8 h-8" />
               <span className="font-poppins font-bold text-xl text-background">
                 Sphoenix
               </span>
